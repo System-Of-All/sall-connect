@@ -18,7 +18,7 @@ Enforcement Responsibilities
 The maintainers of this repository, acting under the authority of System Of All LLC, are responsible for interpreting and enforcing this Code of Conduct. Maintainers may take appropriate action in response to violations, including issuing warnings, removing comments or contributions, restricting participation, or suspending or banning contributors. Enforcement decisions aim to maintain a safe and constructive environment for all participants.
 
 Reporting Concerns  
-Participants who experience or witness behavior that violates this Code of Conduct are encouraged to report the issue to the project maintainers. Reports may be submitted through the following email address: development@systemofall.com. All reports will be reviewed with appropriate discretion, and necessary steps will be taken to address the concern.
+Participants who experience or witness behavior that violates this Code of Conduct are encouraged to report the issue to the project maintainers. Reports may be submitted through the following email address: conduct@sallconnect.com. All reports will be reviewed with appropriate discretion, and necessary steps will be taken to address the concern.
 
 Scope  
 This Code of Conduct applies to interactions within this repository, issue discussions, pull request discussions, and official project communication channels. Participants representing this project in public spaces are also expected to maintain the same standards of professionalism and integrity.
